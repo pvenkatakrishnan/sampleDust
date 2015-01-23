@@ -1,0 +1,1 @@
+(function(){dust.register("test",body_0);var blocks={"body":body_1};function body_0(chk,ctx){ctx=ctx.shiftBlocks(blocks);return chk;}function body_1(chk,ctx){ctx=ctx.shiftBlocks(blocks);return chk.write("<h1>I am so cool i dont need pre</h1>");}return body_0;})();
